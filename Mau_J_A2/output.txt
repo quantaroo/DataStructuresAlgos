@@ -1,0 +1,290 @@
+MARIO STARTS HERE, LETS A GO!!
+Going Down vvvv
+=======================
+
+Level  :0
+Row  :1
+Column  :1
+Power  :0
+The position is empty (>'.')> 
+Live(s)  :1
+Coin(s)  :0
+Power  :0
+
+Level :0
+b w 
+k H 
+
+
+Level :1
+m x 
+w b 
+
+
+Level :2
+b c 
+c w 
+
+
+Level :3
+m b 
+w x 
+
+
+Level :4
+c m 
+b c 
+
+Going Up  ^^^^
+======================
+
+Level  :0
+Row  :0
+Column  :1
+Power  :0
+Mario Warps!
+Live(s)  :1
+Coin(s)  :0
+Power  :0
+
+Level :0
+b H 
+k x 
+
+
+Level :1
+m x 
+w b 
+
+
+Level :2
+b c 
+c w 
+
+
+Level :3
+m b 
+w x 
+
+
+Level :4
+c m 
+b c 
+
+Going Up  ^^^^
+======================
+
+Level  :1
+Row  :1
+Column  :1
+Power  :0
+Mario fought a boss and won!
+Live(s)  :1
+Coin(s)  :0
+Power  :0
+
+Level :0
+b x 
+k x 
+
+
+Level :1
+m x 
+w H 
+
+
+Level :2
+b c 
+c w 
+
+
+Level :3
+m b 
+w x 
+
+
+Level :4
+c m 
+b c 
+
+Going Down vvvv
+=======================
+
+Level  :2
+Row  :0
+Column  :0
+Power  :0
+Mario collected a coin!
+Live(s)  :1
+Coin(s)  :1
+Power  :0
+
+Level :0
+b x 
+k x 
+
+
+Level :1
+m x 
+w x 
+
+
+Level :2
+b H 
+c w 
+
+
+Level :3
+m b 
+w x 
+
+
+Level :4
+c m 
+b c 
+
+Going Up  ^^^^
+======================
+
+Level  :2
+Row  :1
+Column  :0
+Power  :0
+Mario Warps!
+Live(s)  :1
+Coin(s)  :1
+Power  :0
+
+Level :0
+b x 
+k x 
+
+
+Level :1
+m x 
+w x 
+
+
+Level :2
+b x 
+c H 
+
+
+Level :3
+m b 
+w x 
+
+
+Level :4
+c m 
+b c 
+
+Going Down vvvv
+=======================
+
+Level  :4
+Row  :0
+Column  :0
+Power  :0
+Mario ate a mushroom!
+Live(s)  :1
+Coin(s)  :1
+Power  :1
+
+Level :0
+b x 
+k x 
+
+
+Level :1
+m x 
+w x 
+
+
+Level :2
+b x 
+c x 
+
+
+Level :3
+m b 
+w x 
+
+
+Level :4
+c H 
+b c 
+
+Going Down vvvv
+=======================
+
+Level  :4
+Row  :1
+Column  :0
+Power  :1
+Mario collected a coin!
+Live(s)  :1
+Coin(s)  :2
+Power  :1
+
+Level :0
+b x 
+k x 
+
+
+Level :1
+m x 
+w x 
+
+
+Level :2
+b x 
+c x 
+
+
+Level :3
+m b 
+w x 
+
+
+Level :4
+c x 
+b H 
+
+Going Right --->
+======================
+
+Level  :4
+Row  :1
+Column  :0
+Power  :1
+Mario fought a boss and won!
+Live(s)  :1
+Coin(s)  :2
+Power  :1
+
+Level :0
+b x 
+k x 
+
+
+Level :1
+m x 
+w x 
+
+
+Level :2
+b x 
+c x 
+
+
+Level :3
+m b 
+w x 
+
+
+Level :4
+c x 
+H x 
+
+MARIO WON!! YA! YA! YAAAHOOOO!
